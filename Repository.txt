@@ -1,3 +1,5 @@
 Note 1:
 - Testing 1
 - Testing 2
+- Perubahan 1.0
+- Perubahan 1.1
