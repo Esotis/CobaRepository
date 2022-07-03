@@ -3,4 +3,6 @@ Catatan 1 :
  * Node
  * Angular
 - HTML
+ * List
+ * HTML DOM
 - CSS
