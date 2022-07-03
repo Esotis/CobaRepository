@@ -1,0 +1,6 @@
+Catatan 1 :
+- JavaScript
+ * Node
+ * Angular
+- HTML
+- CSS
