@@ -2,6 +2,7 @@ Catatan 1 :
 - JavaScript
  * Node
  * React
+ * Angular
 - HTML
  * List
 - CSS
